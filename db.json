@@ -1,0 +1,332 @@
+{
+    "users": [
+      {
+        "username": "browabs",
+        "password": "cohort30rocks",
+        "first_name": "Abbey",
+        "last_name": "Brown",
+        "email": "student@gmail.com",
+        "id": 1
+      },
+      {
+        "username": "DickRichard",
+        "password": "poophead",
+        "first_name": "Richard",
+        "last_name": "Brown",
+        "email": "richardB@gmail.com",
+        "id": 2
+      },
+      {
+        "username": "brownabs",
+        "password": "animal12",
+        "first_name": "Abbey",
+        "last_name": "Brown",
+        "email": "abbeybrownsemail@gmail.com",
+        "id": 3
+      },
+      {
+        "username": "butthead",
+        "password": "ppop",
+        "first_name": "neil",
+        "last_name": "minger",
+        "email": "butthead@gmail.com",
+        "id": 4
+      }
+    ],
+    "recipes": [
+      {
+        "id": 10,
+        "name": "Hopmaster",
+        "description": "not for the faint of heart",
+        "userId": 2,
+        "beerStyle": "IPA",
+        "originalGravity": "1.070",
+        "fermentationTime": "4 weeks",
+        "alcoholContent": "high",
+        "yield": "5 gallons",
+        "recipeInstructions": "",
+        "comments": "Will check on fermentation at 4 weeks, but may require longer."
+      },
+      {
+        "name": "The Abbster",
+        "description": "as pale as Abbey Brown",
+        "beerStyle": "Pale Ale",
+        "originalGravity": "1.032",
+        "fermentationTime": "6 ",
+        "alcoholContent": "medium",
+        "yield": "5 gallons",
+        "recipeInstructions": "",
+        "comments": "Sounds delightful lol",
+        "id": 12
+      },
+      {
+        "name": "Wise Guy",
+        "description": "pretty basic",
+        "beerStyle": "Brown Ale",
+        "originalGravity": "1.021",
+        "fermentationTime": "4",
+        "alcoholContent": "low",
+        "yield": "2 gallons",
+        "recipeInstructions": "",
+        "comments": "",
+        "id": 13
+      },
+      {
+        "name": "Wise Guy",
+        "description": "iohg",
+        "beerStyle": "Brown Ale",
+        "originalGravity": "1.080",
+        "fermentationTime": "4",
+        "alcoholContent": "low",
+        "yield": "5 gallons",
+        "recipeInstructions": "",
+        "comments": "boring",
+        "id": 14
+      },
+      {
+        "id": 22,
+        "name": "Alive Ringer",
+        "description": "Dead Ringer® is a larger-than-life American IPA beer recipe kit with a hop aroma so thick you can almost see it. American base malt and crystal malt create the big body and supporting grainy sweetness, while charge after charge of 100% Centennial hops deliver pronounced bitterness with a dominant citrus aroma and flavor. In the glass, these ingredients combine to give you a pale amber color, hop intensity and malt density--substance with the soul of a sessionable craft beer. This IPA recipe kit has been a customer favorite for a decade. Dead Ringer® is an homage to a legendary American IPA style that's brewed in Michigan. And according to countless homebrewers, it's dead on.\n\nDead Ringer® is an homage to a benchmark of the American IPA style that's brewed in Michigan. ",
+        "userId": 2,
+        "beerStyle": "IPA",
+        "originalGravity": "1.067",
+        "fermentationTime": "4",
+        "alcoholContent": "high",
+        "yield": "5 gallons",
+        "recipeInstructions": "O.G: 1.052 READY: 6 WEEKS\n1–2 weeks primary, 2–4 weeks secondary,\n 1–2 weeks bottle conditioning\nKIT INVENTORY:\nMAILLARD MALTS\nSPECIALTY GRAIN\n- 0.25 lbs English Medium Crystal\n- 0.25 lbs English Dark Crystal\nMAILLARD MALTS\nEXTRACTS & OTHER FERMENTABLES\n- 3.15 lbs Pilsen malt syrup (60 minutes)\n- 3.15 lbs Gold malt syrup (15 min late addition)\n- 1 lb Pilsen DME (15 min late addition)\nHOPTIMUS REXTM\nPREMIUM HOPS\n& OTHER FLAVORINGS\n- 0.5 oz Azacca (60 min)\n- 0.5 oz Azacca (15 min)\n- 1 oz Azacca (0 min - Flame out)\n- 2 oz Azacca (dry hop)\nYEAST\nDry yeast (default) Safale S-04. Optimum\ntemperature: 64°-75°F\nLiquid yeast option: Wyeast 1335 British Ale II. 63°-75°F\nWhite Labs WLP007 Dry English Ale Yeast.\nOptimum temp: 65°-70°F\nPRIMING SUGAR\n- 5 oz Priming Sugar (save for Bottling Day)\nThese simple instructions are basic brewing procedures\nfor this Northern Brewer extract beer kit; please refer\nto your starter kit instructions for specific instructions\non use of equipment and common procedures such as\nsiphoning, sanitizing, bottling, etc.\nBEFORE YOU BEGIN ...\nMINIMUM REQUIREMENTS\n- Homebrewing starter kit for brewing 5 gallon batches\n- Boiling kettle of at least 3.5 gallons capacity\n- A 5 gallon glass carboy, with bung and airlock, to use as\na secondary fermenter - If you do not have a secondary\nfermenter you may skip the secondary fermentation and add\nan additional week to primary fermentation before bottling\nApproximately two cases of either 12 oz or 22 oz pry-off\nstyle beer bottles\nUNPACK THE KIT\n- Refrigerate the yeast upon arrival\n- Locate the Kit Inventory (above) – this is the recipe for your\nbeer, so keep it handy\n- Doublecheck the box contents vs. the Kit Inventory\n- Contact us immediately if you have any questions or concerns!\nPROCEDURE\nA FEW DAYS BEFORE BREWING DAY\n1. Remove the liquid Wyeast pack from the refrigerator,\nand “smack” as shown on the back of the yeast package.\nLeave it in a warm place (70–80° F) to incubate until the\npack begins to inflate. Allow at least 3 hours for inflation;\nsome packs may take up to several days to show inflation.\nDo not brew with inactive yeast — we can replace the\nyeast, but not a batch that fails to ferment properly. If you\nare using dry yeast, no action is needed.\nON BREWING DAY\n2. Collect and heat 2.5 gallons of water.\n3. For mail-order customers grains for extract kits come\ncrushed by default, but if you requested uncrushed grains,\ncrush them now. Pour crushed grain into supplied mesh\nbag and tie the open end in a knot. Steep for 20 minutes\nor until water reaches 170°F. Remove bag and discard.\n4. Bring to a boil and add the 3.15 lbs Pilsen malt syrup.\nRemove the kettle from the burner and stir in the\nPilsen malt syrup.\n5. Return wort to boil. The mixture is now called “wort”,\nthe brewer’s term for unfermented beer.\n- Add 0.5 oz Azacca hops and boil for 60 minutes.\n- Add 0.5 oz Azacca hops, 3.15 lbs Gold malt syrup and 1 lb\nPilsen DME 15 minutes before the end of the boil.\n- Add 1 oz Azacca hops with 0 minutes remaining in the\nboil. Turn off heat.\n6. Cool the wort. When the 60-minute boil is finished,\ncool the wort to approximately 100° F as rapidly as\npossible. Use a wort chiller, or put the kettle in an ice\nbath in your sink.\n7. Sanitize fermenting equipment and yeast pack. While\nthe wort cools, sanitize the fermenting equipment –\nfermenter, lid or stopper, fermentation lock, funnel, etc –\nalong with the yeast pack and a pair of scissors.\n8. Fill primary fermenter with 2 gallons of cold water, then\npour in the cooled wort. Leave any thick sludge in the\nbottom of the kettle.\nAZACCA\n9. Add more cold water as needed to bring the\nvolume to 5 gallons.\n10. Aerate the wort. Seal the fermenter and rock\nback and forth to splash for a few minutes, or use an\naeration system and diffusion stone.\n11. OPTIONAL: if you have our Mad Brewer Upgrade\nor Gravity Testing kits, measure specific gravity of the\nwort with a hydrometer and record.\n12. Add yeast once the temperature of the wort is 78°F\nor lower (not warm to the touch). Use the sanitized\nscissors to cut off a corner of the yeast pack, and\ncarefully pour the yeast into the primary fermenter.\n13. Seal the fermenter. Add approximately 1 tablespoon\nof water to the sanitized fermentation lock. Insert the\nlock into rubber stopper or lid, and seal the fermenter.\n14. Move the fermenter to a warm, dark, quiet spot until\nfermentation begins.\nBEYOND BREWING DAY, WEEKS\n1–2\n15. Active fermentation begins. Within approximately\n48 hours of Brewing Day, active fermentation will\nbegin – there will be a cap of foam on the surface of\nthe beer, and you may see bubbles come through the\nfermentation lock.\n16. Active fermentation ends. Approximately 1–2 weeks\nafter brewing day, active fermentation will end: the cap\nof foam falls back into the new beer, bubbling in the\nfermentation lock slows down or stops.\n17. Transfer beer to secondary fermenter. Sanitize\nsiphoning equipment and an airlock and carboy bung\nor stopper. Siphon the beer from the primary fermenter\ninto the secondary.\nBEYOND BREWING DAY—\nSECONDARY FERMENTATION\n18. Secondary fermentation. Allow the beer to\ncondition in the secondary fermenter for 2–4 weeks\nbefore proceeding with the next step. Timing now is\nsomewhat flexible.\n19. Add the dry hops. Add 2 oz Azacca hops to the\nsecondary fermenter 1–2 weeks before bottling day.\nBOTTLING DAY—ABOUT 1 MONTH\nAFTER BREWING DAY\n20. Sanitize siphoning and bottling equipment.\n21. Mix a priming solution (a measured amount of sugar\ndissolved in water to carbonate the bottled beer) of 2/3\ncup priming sugar in 16 oz water. Bring the solution to a\nboil and pour into the bottling bucket.\n22. Siphon beer into bottling bucket and mix with\npriming solution. Stir gently to mix, don’t splash.\n23. Fill and cap bottles.\n1–2 WEEKS AFTER BOTTLING DAY\n24. Condition bottles at room temperature for 1–2 weeks.\nAfter this point, the bottles can be stored cool or cold.\n25. Serving. Pour into a clean glass, being careful\nto leave the layer of sediment at the bottom of the\nbottle. Cheers! ",
+        "comments": "this is a new comment"
+      },
+      {
+        "id": 23,
+        "name": "The Sandy ",
+        "description": "pretty typical brown ale",
+        "userId": 2,
+        "beerStyle": "brown ale",
+        "originalGravity": "1.034",
+        "fermentationTime": "4",
+        "alcoholContent": "low",
+        "yield": "5 gallons",
+        "recipeInstructions": "instructions here",
+        "comments": "want to brew this in the summer"
+      },
+      {
+        "name": "The Abbster",
+        "description": "pale ale familiar but smooth finish",
+        "beerStyle": "pale ale",
+        "originalGravity": "1.032",
+        "fermentationTime": "4",
+        "alcoholContent": "low",
+        "yield": "5 gallons",
+        "recipeInstructions": "O.G: 1.052 READY: 6 WEEKS\n1–2 weeks primary, 2–4 weeks secondary,\n 1–2 weeks bottle conditioning\nKIT INVENTORY:\nMAILLARD MALTS\nSPECIALTY GRAIN\n- 0.25 lbs English Medium Crystal\n- 0.25 lbs English Dark Crystal\nMAILLARD MALTS\nEXTRACTS & OTHER FERMENTABLES\n- 3.15 lbs Pilsen malt syrup (60 minutes)\n- 3.15 lbs Gold malt syrup (15 min late addition)\n- 1 lb Pilsen DME (15 min late addition)\nHOPTIMUS REXTM\nPREMIUM HOPS\n& OTHER FLAVORINGS\n- 0.5 oz Azacca (60 min)\n- 0.5 oz Azacca (15 min)\n- 1 oz Azacca (0 min - Flame out)\n- 2 oz Azacca (dry hop)\nYEAST\nDry yeast (default) Safale S-04. Optimum\ntemperature: 64°-75°F\nLiquid yeast option: Wyeast 1335 British Ale II. 63°-75°F\nWhite Labs WLP007 Dry English Ale Yeast.\nOptimum temp: 65°-70°F\nPRIMING SUGAR\n- 5 oz Priming Sugar (save for Bottling Day)\nThese simple instructions are basic brewing procedures\nfor this Northern Brewer extract beer kit; please refer\nto your starter kit instructions for specific instructions\non use of equipment and common procedures such as\nsiphoning, sanitizing, bottling, etc.\nBEFORE YOU BEGIN ...\nMINIMUM REQUIREMENTS\n- Homebrewing starter kit for brewing 5 gallon batches\n- Boiling kettle of at least 3.5 gallons capacity\n- A 5 gallon glass carboy, with bung and airlock, to use as\na secondary fermenter - If you do not have a secondary\nfermenter you may skip the secondary fermentation and add\nan additional week to primary fermentation before bottling\nApproximately two cases of either 12 oz or 22 oz pry-off\nstyle beer bottles\nUNPACK THE KIT\n- Refrigerate the yeast upon arrival\n- Locate the Kit Inventory (above) – this is the recipe for your\nbeer, so keep it handy\n- Doublecheck the box contents vs. the Kit Inventory\n- Contact us immediately if you have any questions or concerns!\nPROCEDURE\nA FEW DAYS BEFORE BREWING DAY\n1. Remove the liquid Wyeast pack from the refrigerator,\nand “smack” as shown on the back of the yeast package.\nLeave it in a warm place (70–80° F) to incubate until the\npack begins to inflate. Allow at least 3 hours for inflation;\nsome packs may take up to several days to show inflation.\nDo not brew with inactive yeast — we can replace the\nyeast, but not a batch that fails to ferment properly. If you\nare using dry yeast, no action is needed.\nON BREWING DAY\n2. Collect and heat 2.5 gallons of water.\n3. For mail-order customers grains for extract kits come\ncrushed by default, but if you requested uncrushed grains,\ncrush them now. Pour crushed grain into supplied mesh\nbag and tie the open end in a knot. Steep for 20 minutes\nor until water reaches 170°F. Remove bag and discard.\n4. Bring to a boil and add the 3.15 lbs Pilsen malt syrup.\nRemove the kettle from the burner and stir in the\nPilsen malt syrup.\n5. Return wort to boil. The mixture is now called “wort”,\nthe brewer’s term for unfermented beer.\n- Add 0.5 oz Azacca hops and boil for 60 minutes.\n- Add 0.5 oz Azacca hops, 3.15 lbs Gold malt syrup and 1 lb\nPilsen DME 15 minutes before the end of the boil.\n- Add 1 oz Azacca hops with 0 minutes remaining in the\nboil. Turn off heat.\n6. Cool the wort. When the 60-minute boil is finished,\ncool the wort to approximately 100° F as rapidly as\npossible. Use a wort chiller, or put the kettle in an ice\nbath in your sink.\n7. Sanitize fermenting equipment and yeast pack. While\nthe wort cools, sanitize the fermenting equipment –\nfermenter, lid or stopper, fermentation lock, funnel, etc –\nalong with the yeast pack and a pair of scissors.\n8. Fill primary fermenter with 2 gallons of cold water, then\npour in the cooled wort. Leave any thick sludge in the\nbottom of the kettle.\nAZACCA\n9. Add more cold water as needed to bring the\nvolume to 5 gallons.\n10. Aerate the wort. Seal the fermenter and rock\nback and forth to splash for a few minutes, or use an\naeration system and diffusion stone.\n11. OPTIONAL: if you have our Mad Brewer Upgrade\nor Gravity Testing kits, measure specific gravity of the\nwort with a hydrometer and record.\n12. Add yeast once the temperature of the wort is 78°F\nor lower (not warm to the touch). Use the sanitized\nscissors to cut off a corner of the yeast pack, and\ncarefully pour the yeast into the primary fermenter.\n13. Seal the fermenter. Add approximately 1 tablespoon\nof water to the sanitized fermentation lock. Insert the\nlock into rubber stopper or lid, and seal the fermenter.\n14. Move the fermenter to a warm, dark, quiet spot until\nfermentation begins.\nBEYOND BREWING DAY, WEEKS\n1–2\n15. Active fermentation begins. Within approximately\n48 hours of Brewing Day, active fermentation will\nbegin – there will be a cap of foam on the surface of\nthe beer, and you may see bubbles come through the\nfermentation lock.\n16. Active fermentation ends. Approximately 1–2 weeks\nafter brewing day, active fermentation will end: the cap\nof foam falls back into the new beer, bubbling in the\nfermentation lock slows down or stops.\n17. Transfer beer to secondary fermenter. Sanitize\nsiphoning equipment and an airlock and carboy bung\nor stopper. Siphon the beer from the primary fermenter\ninto the secondary.\nBEYOND BREWING DAY—\nSECONDARY FERMENTATION\n18. Secondary fermentation. Allow the beer to\ncondition in the secondary fermenter for 2–4 weeks\nbefore proceeding with the next step. Timing now is\nsomewhat flexible.\n19. Add the dry hops. Add 2 oz Azacca hops to the\nsecondary fermenter 1–2 weeks before bottling day.\nBOTTLING DAY—ABOUT 1 MONTH\nAFTER BREWING DAY\n20. Sanitize siphoning and bottling equipment.\n21. Mix a priming solution (a measured amount of sugar\ndissolved in water to carbonate the bottled beer) of 2/3\ncup priming sugar in 16 oz water. Bring the solution to a\nboil and pour into the bottling bucket.\n22. Siphon beer into bottling bucket and mix with\npriming solution. Stir gently to mix, don’t splash.\n23. Fill and cap bottles.\n1–2 WEEKS AFTER BOTTLING DAY\n24. Condition bottles at room temperature for 1–2 weeks.\nAfter this point, the bottles can be stored cool or cold.\n25. Serving. Pour into a clean glass, being careful\nto leave the layer of sediment at the bottom of the\nbottle. Cheers! ",
+        "comments": "will try to brew in the spring or in the summer",
+        "userId": 2,
+        "id": 24
+      },
+      {
+        "name": "Wise Guy",
+        "description": "kinda of bitter",
+        "beerStyle": "Pale Ale",
+        "originalGravity": "1.021",
+        "fermentationTime": "4",
+        "alcoholContent": "medium",
+        "yield": "5 gallons",
+        "recipeInstructions": "      \"recipeInstructions\": \"O.G: 1.052 READY: 6 WEEKS\\n1–2 weeks primary, 2–4 weeks secondary,\\n 1–2 weeks bottle conditioning\\nKIT INVENTORY:\\nMAILLARD MALTS\\nSPECIALTY GRAIN\\n- 0.25 lbs English Medium Crystal\\n- 0.25 lbs English Dark Crystal\\nMAILLARD MALTS\\nEXTRACTS & OTHER FERMENTABLES\\n- 3.15 lbs Pilsen malt syrup (60 minutes)\\n- 3.15 lbs Gold malt syrup (15 min late addition)\\n- 1 lb Pilsen DME (15 min late addition)\\nHOPTIMUS REXTM\\nPREMIUM HOPS\\n& OTHER FLAVORINGS\\n- 0.5 oz Azacca (60 min)\\n- 0.5 oz Azacca (15 min)\\n- 1 oz Azacca (0 min - Flame out)\\n- 2 oz Azacca (dry hop)\\nYEAST\\nDry yeast (default) Safale S-04. Optimum\\ntemperature: 64°-75°F\\nLiquid yeast option: Wyeast 1335 British Ale II. 63°-75°F\\nWhite Labs WLP007 Dry English Ale Yeast.\\nOptimum temp: 65°-70°F\\nPRIMING SUGAR\\n- 5 oz Priming Sugar (save for Bottling Day)\\nThese simple instructions are basic brewing procedures\\nfor this Northern Brewer extract beer kit; please refer\\nto your starter kit instructions for specific instructions\\non use of equipment and common procedures such as\\nsiphoning, sanitizing, bottling, etc.\\nBEFORE YOU BEGIN ...\\nMINIMUM REQUIREMENTS\\n- Homebrewing starter kit for brewing 5 gallon batches\\n- Boiling kettle of at least 3.5 gallons capacity\\n- A 5 gallon glass carboy, with bung and airlock, to use as\\na secondary fermenter - If you do not have a secondary\\nfermenter you may skip the secondary fermentation and add\\nan additional week to primary fermentation before bottling\\nApproximately two cases of either 12 oz or 22 oz pry-off\\nstyle beer bottles\\nUNPACK THE KIT\\n- Refrigerate the yeast upon arrival\\n- Locate the Kit Inventory (above) – this is the recipe for your\\nbeer, so keep it handy\\n- Doublecheck the box contents vs. the Kit Inventory\\n- Contact us immediately if you have any questions or concerns!\\nPROCEDURE\\nA FEW DAYS BEFORE BREWING DAY\\n1. Remove the liquid Wyeast pack from the refrigerator,\\nand “smack” as shown on the back of the yeast package.\\nLeave it in a warm place (70–80° F) to incubate until the\\npack begins to inflate. Allow at least 3 hours for inflation;\\nsome packs may take up to several days to show inflation.\\nDo not brew with inactive yeast — we can replace the\\nyeast, but not a batch that fails to ferment properly. If you\\nare using dry yeast, no action is needed.\\nON BREWING DAY\\n2. Collect and heat 2.5 gallons of water.\\n3. For mail-order customers grains for extract kits come\\ncrushed by default, but if you requested uncrushed grains,\\ncrush them now. Pour crushed grain into supplied mesh\\nbag and tie the open end in a knot. Steep for 20 minutes\\nor until water reaches 170°F. Remove bag and discard.\\n4. Bring to a boil and add the 3.15 lbs Pilsen malt syrup.\\nRemove the kettle from the burner and stir in the\\nPilsen malt syrup.\\n5. Return wort to boil. The mixture is now called “wort”,\\nthe brewer’s term for unfermented beer.\\n- Add 0.5 oz Azacca hops and boil for 60 minutes.\\n- Add 0.5 oz Azacca hops, 3.15 lbs Gold malt syrup and 1 lb\\nPilsen DME 15 minutes before the end of the boil.\\n- Add 1 oz Azacca hops with 0 minutes remaining in the\\nboil. Turn off heat.\\n6. Cool the wort. When the 60-minute boil is finished,\\ncool the wort to approximately 100° F as rapidly as\\npossible. Use a wort chiller, or put the kettle in an ice\\nbath in your sink.\\n7. Sanitize fermenting equipment and yeast pack. While\\nthe wort cools, sanitize the fermenting equipment –\\nfermenter, lid or stopper, fermentation lock, funnel, etc –\\nalong with the yeast pack and a pair of scissors.\\n8. Fill primary fermenter with 2 gallons of cold water, then\\npour in the cooled wort. Leave any thick sludge in the\\nbottom of the kettle.\\nAZACCA\\n9. Add more cold water as needed to bring the\\nvolume to 5 gallons.\\n10. Aerate the wort. Seal the fermenter and rock\\nback and forth to splash for a few minutes, or use an\\naeration system and diffusion stone.\\n11. OPTIONAL: if you have our Mad Brewer Upgrade\\nor Gravity Testing kits, measure specific gravity of the\\nwort with a hydrometer and record.\\n12. Add yeast once the temperature of the wort is 78°F\\nor lower (not warm to the touch). Use the sanitized\\nscissors to cut off a corner of the yeast pack, and\\ncarefully pour the yeast into the primary fermenter.\\n13. Seal the fermenter. Add approximately 1 tablespoon\\nof water to the sanitized fermentation lock. Insert the\\nlock into rubber stopper or lid, and seal the fermenter.\\n14. Move the fermenter to a warm, dark, quiet spot until\\nfermentation begins.\\nBEYOND BREWING DAY, WEEKS\\n1–2\\n15. Active fermentation begins. Within approximately\\n48 hours of Brewing Day, active fermentation will\\nbegin – there will be a cap of foam on the surface of\\nthe beer, and you may see bubbles come through the\\nfermentation lock.\\n16. Active fermentation ends. Approximately 1–2 weeks\\nafter brewing day, active fermentation will end: the cap\\nof foam falls back into the new beer, bubbling in the\\nfermentation lock slows down or stops.\\n17. Transfer beer to secondary fermenter. Sanitize\\nsiphoning equipment and an airlock and carboy bung\\nor stopper. Siphon the beer from the primary fermenter\\ninto the secondary.\\nBEYOND BREWING DAY—\\nSECONDARY FERMENTATION\\n18. Secondary fermentation. Allow the beer to\\ncondition in the secondary fermenter for 2–4 weeks\\nbefore proceeding with the next step. Timing now is\\nsomewhat flexible.\\n19. Add the dry hops. Add 2 oz Azacca hops to the\\nsecondary fermenter 1–2 weeks before bottling day.\\nBOTTLING DAY—ABOUT 1 MONTH\\nAFTER BREWING DAY\\n20. Sanitize siphoning and bottling equipment.\\n21. Mix a priming solution (a measured amount of sugar\\ndissolved in water to carbonate the bottled beer) of 2/3\\ncup priming sugar in 16 oz water. Bring the solution to a\\nboil and pour into the bottling bucket.\\n22. Siphon beer into bottling bucket and mix with\\npriming solution. Stir gently to mix, don’t splash.\\n23. Fill and cap bottles.\\n1–2 WEEKS AFTER BOTTLING DAY\\n24. Condition bottles at room temperature for 1–2 weeks.\\nAfter this point, the bottles can be stored cool or cold.\\n25. Serving. Pour into a clean glass, being careful\\nto leave the layer of sediment at the bottom of the\\nbottle. Cheers! \",\n",
+        "comments": "might not want to try this",
+        "userId": 2,
+        "id": 25
+      },
+      {
+        "name": "Cream of the Crop",
+        "description": "light, refreshing",
+        "beerStyle": "Cream Ale",
+        "originalGravity": "1.040",
+        "fermentationTime": "4",
+        "alcoholContent": "medium",
+        "yield": "5 gallons",
+        "recipeInstructions": "Creating the railroad empire across the west took\nconsiderable fortitude, commitment, and a strong back.\nEmpire Builder Cream Ale is a nod to that incredible\neffort. This recipe boasts an original gravity of 1.074,\ncertainly not for the weak of heart, and the sturdy malt\nbackbone provides the basis on which this strength\nis founded. Speaking of commitment, Americans have\nbrewed the Cream Ale style for a century or more,\ngrowing and adapting it right along with our railways.\nThis scaled up version of the classic boasts clean malt\nflavors, a firm bitterness, and features traditional\nadjuncts to achieve its medium body. Pouring with a deep\ngolden hue and capped with a dense brilliantly white\nfoam cloud, Empire Builder Cream Ale forges west into\nthe sunset, never looking back.\nO.G: 1.074 READY: 8 WEEKS\n1-2 weeks primary, 2-4 weeks secondary,\n 1–2 weeks bottle conditioning\nKIT INVENTORY:\nMAILLARD MALTSTM\nEXTRACTS & OTHER FERMENTABLES\n- 6 lbs Pilsen Malt Syrup (60 min addition)\n- 3 lbs Pilsen DME (15 min late addition)\n- 1 lb Corn Sugar (15 min late addition)\nHOPTIMUS REXTM\nPREMIUM HOPS\n& OTHER FLAVORINGS\n- 1 oz Cluster (60 min)\n- 1 oz Crystal (30 min)\nYEAST\n- DRY YEAST (DEFAULT): Fermentis Safbrew US-05.\nOptimum temp: 59 - 75F.\n- LIQUID YEAST OPTION: Wyeast 1056 American Ale.\nOptimum temp: 60-72F. - or- The Yeast Bay Midwestern Ale\nYeast. Optimum temp: 64-72F\nPRIMING SUGAR\n- 5 oz Priming Sugar (save for Bottling Day)\nThese simple instructions are basic brewing procedures\nfor this Northern Brewer extract beer kit; please refer\nto your starter kit instructions for specific instructions\non use of equipment and common procedures such as\nsiphoning, sanitizing, bottling, etc.\nFor more detailed extract brewing instructions, please\nvisit www.northernbrewer.com\nBEFORE YOU BEGIN ...\nMINIMUM REQUIREMENTS\n- Homebrewing starter kit for brewing 5 gallon batches\n- Boiling kettle of at least 3.5 gallons capacity\n- A 5 gallon glass carboy, with bung and airlock, to use as a\nsecondary fermenter\n- Approximately two cases of either 12 oz or 22 oz pry-off\nstyle beer bottles\nUNPACK THE KIT\n- Refrigerate the yeast upon arrival\n- Locate the Kit Inventory (above) – this is the recipe for your\nbeer, so keep it handy\n- Doublecheck the box contents vs. the Kit Inventory\n- Contact us immediately if you have any\nquestions or concerns!\nPROCEDURE\nA FEW DAYS BEFORE BREWING DAY\n1. Remove the liquid yeast from the refrigerator. If you\nare using Wyeast, “smack” as shown on the back of the\nyeast package. Leave it in a warm place (70–80° F) to\nincubate until the pack begins to inflate. If you are using\ndry yeast, no action is needed.\nON BREWING DAY\n2. Collect and heat 2.5 gallons of water.\n3. Bring to a boil and add 6 lbs Pilsen malt syrup.\nRemove the kettle from the burner and stir in the\nPilsen malt syrup.\n4. Return wort to boil. The mixture is now called “wort”,\nthe brewer’s term for unfermented beer.\n- Add 1 oz Cluster hops, and boil for 60 minutes.\n- Add 1 oz Crystal hops 30 minutes before the end of the boil.\n- Add 3 lbs Pilsen DME and 1 lb corn sugar 15 minutes before the\nend of the boil.\n5. Cool the wort. When the 60-minute boil is finished,\ncool the wort to approximately 100° F as rapidly as\npossible. Use a wort chiller, or put the kettle in an ice\nbath in your sink.\n6. Sanitize fermenting equipment and yeast pack. While\nthe wort cools, sanitize the fermenting equipment –\nfermenter, lid or stopper, fermentation lock, funnel, etc –\nalong with the yeast pack and a pair of scissors.\n7. Fill primary fermenter with 2 gallons of cold water,\nthen pour in the cooled wort. Leave any thick sludge in\nthe bottom of the kettle.\n8. Add more cold water as needed to bring the\nvolume to 5 gallons.\n9. Aerate the wort. Seal the fermenter and rock back\nand forth to splash for a few minutes, or use an aeration\nsystem and diffusion stone.\n10. OPTIONAL: if you have our Mad Brewer Upgrade or\nGravity Testing kits, measure specific gravity of the wort\nwith a hydrometer and record.\n11. Add yeast once the temperature of the wort is 78°F or\nlower (not warm to the touch). Use the sanitized scissors\nto cut off a corner of the yeast pack, and carefully pour\nthe yeast into the primary fermenter.\nEMPIRE BUILDER IMPERIAL CREAM ALE\n12. Seal the fermenter. Add approximately 1 tablespoon of\nwater to the sanitized fermentation lock. Insert the lock\ninto rubber stopper or lid, and seal the fermenter.\n13. Move the fermenter to a warm, dark, quiet spot until\nfermentation begins.\nBEYOND BREWING DAY, WEEKS 1–2\n14. Active fermentation begins. Within approximately\n48 hours of Brewing Day, active fermentation will\nbegin – there will be a cap of foam on the surface of\nthe beer, and you may see bubbles come through the\nfermentation lock.\n15. Active fermentation ends. Approximately 1–2 weeks\nafter brewing day, active fermentation will end: the cap\nof foam falls back into the new beer, bubbling in the\nfermentation lock slows down or stops.\n16. Transfer beer to secondary fermenter. Sanitize\nsiphoning equipment and an airlock and carboy bung or\nstopper. Siphon the beer from the primary fermenter into\nthe secondary.\nBEYOND BREWING DAY—\nSECONDARY FERMENTATION\n17. Secondary fermentation. Allow the beer to condition in\nthe secondary fermenter for 2 weeks before proceeding\nwith the next step. Timing now is somewhat flexible.\nBOTTLING DAY—ABOUT 4 WEEKS\nAFTER BREWING DAY\n18. Sanitize siphoning and bottling equipment.\n19. Mix a priming solution (a measured amount of sugar\ndissolved in water to carbonate the bottled beer) of 2/3\ncup priming sugar in 16 oz water. Bring the solution to a\nboil and pour into the bottling bucket.\n20. Siphon beer into bottling bucket and mix with priming\nsolution. Stir gently to mix—don’t splash.\n21. Fill and cap bottles.\n1–2 WEEKS AFTER BOTTLING DAY\n22. Condition bottles at room temperature for 1–2 weeks.\nAfter this point, the bottles can be stored cool or cold.\n23. Serving. Pour into a clean glass, being careful to leave\nthe layer of sediment at the bottom of the bottle. Cheers! ",
+        "comments": "want to brew before summer",
+        "userId": 2,
+        "id": 27
+      },
+      {
+        "name": "The Rupert",
+        "description": "boring",
+        "beerStyle": "Brown ale",
+        "originalGravity": "1.032",
+        "fermentationTime": "4",
+        "alcoholContent": "low",
+        "yield": "5 gallons",
+        "recipeInstructions": "jkbf;hcjhgvabehjf;v gbvnjhbnj then boil some shit",
+        "comments": "",
+        "userId": 4,
+        "id": 28
+      }
+    ],
+    "ingredients": [
+      {
+        "name": " Gold malt syrup ",
+        "quantity": "9.5 lbs",
+        "recipeId": 22,
+        "id": 1
+      },
+      {
+        "name": "centennial hops",
+        "quantity": "8 oz",
+        "recipeId": 25,
+        "id": 2
+      },
+      {
+        "name": "DME Gold Extract",
+        "quantity": "9 lbs",
+        "recipeId": 25,
+        "id": 3
+      },
+      {
+        "name": "imperial yeast",
+        "quantity": "3 oz",
+        "recipeId": 27,
+        "id": 5
+      },
+      {
+        "name": "priming sugar",
+        "quantity": "5 oz",
+        "recipeId": 27,
+        "id": 6
+      },
+      {
+        "name": "imperial yeast",
+        "quantity": "4 ounces",
+        "recipeId": 28,
+        "id": 7
+      }
+    ],
+    "batches": [
+      {
+        "id": 8,
+        "userId": 2,
+        "recipeId": 22,
+        "startDate": "March 23, 2019",
+        "bottleDate": "April 13, 2019",
+        "endDate": "May 4, 2019",
+        "comments": "",
+        "isComplete": false
+      },
+      {
+        "id": 9,
+        "userId": 2,
+        "recipeId": 22,
+        "startDate": "March 25, 2019",
+        "bottleDate": "April 2, 2019",
+        "endDate": "April 16, 2019",
+        "comments": "",
+        "isComplete": true
+      },
+      {
+        "id": 11,
+        "userId": 2,
+        "recipeId": 23,
+        "startDate": "March 1, 2019",
+        "bottleDate": "March 29, 2019",
+        "endDate": "March 31, 2019",
+        "isComplete": true
+      },
+      {
+        "id": 19,
+        "userId": 2,
+        "recipeId": 22,
+        "isComplete": true,
+        "startDate": "April 2, 2019",
+        "bottleDate": "June 1, 2019",
+        "endDate": "June 15, 2019"
+      },
+      {
+        "id": 20,
+        "userId": 2,
+        "recipeId": 27,
+        "isComplete": false,
+        "startDate": "April 13, 2019",
+        "bottleDate": "May 20, 2019",
+        "endDate": "June 3, 2019"
+      },
+      {
+        "id": 21,
+        "userId": 2,
+        "recipeId": 22,
+        "isComplete": false,
+        "startDate": "April 16, 2019",
+        "bottleDate": "May 14, 2019",
+        "endDate": "May 28, 2019"
+      },
+      {
+        "id": 22,
+        "userId": 2,
+        "recipeId": 22,
+        "isComplete": false,
+        "startDate": "May 26, 2019",
+        "bottleDate": "June 23, 2019",
+        "endDate": "July 7, 2019"
+      },
+      {
+        "id": 23,
+        "userId": 2,
+        "recipeId": 27,
+        "isComplete": false,
+        "startDate": "May 26, 2019",
+        "bottleDate": "June 23, 2019",
+        "endDate": "July 7, 2019"
+      },
+      {
+        "id": 24,
+        "userId": 4,
+        "recipeId": 28,
+        "isComplete": false,
+        "startDate": "May 27, 2019",
+        "bottleDate": "June 24, 2019",
+        "endDate": "July 8, 2019"
+      }
+    ],
+    "comments": [
+      {
+        "timeStamp": "Sunday, May 26, 2019 9:18 PM",
+        "batchId": 22,
+        "userId": 2,
+        "commentDescription": "took a while to get my boil. Remember to check properly next time.",
+        "id": 1
+      },
+      {
+        "timeStamp": "Sunday, May 26, 2019 9:32 PM",
+        "batchId": 23,
+        "userId": 2,
+        "commentDescription": "off to a good start. Got the boil quick and on to adding the malt.",
+        "id": 2
+      },
+      {
+        "timeStamp": "Sunday, May 26, 2019 9:32 PM",
+        "batchId": 23,
+        "userId": 2,
+        "commentDescription": "Got the malts in and slowly adding hops. ",
+        "id": 3
+      },
+      {
+        "timeStamp": "Sunday, May 26, 2019 9:32 PM",
+        "batchId": 23,
+        "userId": 2,
+        "commentDescription": "had two boil overs",
+        "id": 4
+      },
+      {
+        "timeStamp": "Monday, May 27, 2019 9:39 AM",
+        "batchId": 24,
+        "userId": 4,
+        "commentDescription": "had a boil over",
+        "id": 5
+      },
+      {
+        "timeStamp": "Monday, May 27, 2019 9:39 AM",
+        "batchId": 24,
+        "userId": 4,
+        "commentDescription": "forgot to add a hop in ",
+        "id": 6
+      }
+    ]
+  }
